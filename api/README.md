@@ -10,12 +10,15 @@
 ### Routes on http://localhost:8080
 #### GET
 > `/user` get all user
+*
 > `/user/auth` authenticate user
+*
 > `/user/:id` get user by id
 ### POST
 > `/user` create new user
 ### PUT
 > `/user/changepass` change user password
+*
 > `/user/:id` update user informations
 ### DELETE
 > `/user/:id` delete user by id
