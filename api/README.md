@@ -2,8 +2,11 @@
 > Download .zip or clone this repository
 # Enter on project folder
 > Type `npm i` on terminal for install dependencies
-> create new file `database.db` 
+*
+> create new file `database.db`
+*
 > Type `npx sequelize-cli db:migrate` on terminal for migrate models to database
+*
 > Type npm start on terminal for start server.js
 
 
