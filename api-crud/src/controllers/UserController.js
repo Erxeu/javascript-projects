@@ -2,6 +2,7 @@ const UserServices = require("../services/UserServices");
 const Controller = require("./Controller")
 
 const userServices = new UserServices();
+
 class UserController extends Controller{
     constructor(service){
         super(userServices)
