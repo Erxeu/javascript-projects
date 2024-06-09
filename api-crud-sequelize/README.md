@@ -11,6 +11,7 @@
 
 
 ### Routes on http://localhost:8080
+
 #### GET
 > `/user` get all user
 *
